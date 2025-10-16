@@ -6,6 +6,12 @@
 ```cd ReadOutLoud```
 
 ```pip install -r Requirements.txt```
+### Requirements: 
+* piper-tts==1.3.0
+* sounddevice==0.5.2
+* soundfile==0.13.1
+* streamlit==1.50.0
+
 
 ## How to run: 
 ```cd ReadOutLoud```
